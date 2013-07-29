@@ -1,0 +1,40 @@
+{
+  "firstname": "Manfred",
+  "lastname": "Touron",
+  "email": "m@42.am",
+  "birthdate": "01/25/1988",
+  "location": {
+    "country": "France",
+    "city": "Paris",
+  },
+  "jobs": [
+  	{
+      "company": "Online (Iliad)",
+      "main": true,
+      "position": "R&D"
+    }
+  ],
+  "networks": [
+    "While42 (http://while42.org)",
+    {
+      "name": "Epitech",
+      "type": "alumni"
+    },
+    "42am"
+  ],
+  "friends": [
+    "Corentin Kerisit <c@42.am> (https://github.com/cerisier)",
+    {
+      "name": "Arnaud Rouyer",
+      "email": "josh.gutrie@gmail.com",
+      "url": "https://github.com/joshleaves"
+    }
+  ],
+  "links": [
+    "Github (https://moul.github.io/)",
+    {
+      "name": "LinkedIn profile",
+      "url": "http://www.linkedin.com/in/manfredtouron"
+    }
+  ]
+}
